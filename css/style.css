@@ -1,0 +1,19 @@
+h1{
+    font-weight: bold;
+    font-family: 'Ranchers', cursive;
+    font-size:65px;
+    color:deepskyblue;
+    font-style:italic;
+}
+.list{
+    position: relative;
+    top:20px;
+}
+li{
+    font-size:18px;
+    margin-top: 15px;
+}
+.btn-danger,.btn-info{
+    float: right;
+    margin-right: 5px;
+}
